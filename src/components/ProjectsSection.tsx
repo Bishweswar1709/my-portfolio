@@ -1,4 +1,4 @@
-import { Github, ExternalLink, Calendar, User, Check } from 'lucide-react'
+import { Github, Calendar, User, Check } from 'lucide-react'
 import { useInView } from '../hooks/useInView'
 import { projects, type Project } from '../data/portfolioData'
 
