@@ -72,15 +72,6 @@ function ProjectCard({ project }: { project: Project }) {
             <Github size={15} />
             GitHub
           </a>
-          {/* <a
-            href={project.liveUrl}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="btn-primary flex-1 justify-center"
-          >
-            <ExternalLink size={15} />
-            Live Demo
-          </a> */}
         </div>
       </div>
     </article>
