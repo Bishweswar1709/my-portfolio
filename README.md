@@ -6,7 +6,6 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 
 👉 **[View My Portfolio](https://my-portfolio-lsb6.vercel.app/)**
 
-> Replace `https://your-portfolio.vercel.app` with your actual Vercel deployment link.
 
 ## ✨ Features
 
