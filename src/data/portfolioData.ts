@@ -133,7 +133,7 @@ export const projects: Project[] = [
 export const achievements: Achievement[] = [
   { value: '350+', label: 'DSA Problems Solved', sublabel: 'across platforms' },
   { value: '1796', label: 'LeetCode Rating', sublabel: 'Top 10% globally' },
-  { value: '1596', label: 'Codeforces Rating', sublabel: 'Specialist rank' },
+  { value: '1593', label: 'Codeforces Rating', sublabel: 'Specialist rank' },
   { value: '8.78', label: 'CGPA', sublabel: 'out of 10.0' },
 ]
 
