@@ -56,7 +56,7 @@ export const personal = {
   tagline: 'Computer Science Engineering Student · Building Scalable Web Applications · 350+ DSA Problems Solved',
   intro:
     "I'm a Computer Science & Engineering student passionate about building full-stack web applications and solving Data Structures & Algorithms problems. I enjoy turning ideas into scalable, reliable, and user-friendly products using modern JavaScript technologies.",
-  resumeUrl: 'https://drive.google.com/file/d/1A8QSRMHXsAuIA1gBZah4pEFybQoLM0p4/view?usp=drive_link',
+  resumeUrl: 'https://drive.google.com/file/d/1LyQj5oNbYFgjC33e9h3E5QXpd-Q_LXl7/view?usp=sharing',
 }
 
 // ─── SOCIAL LINKS ─────────────────────────────────────────────────────────────
