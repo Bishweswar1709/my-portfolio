@@ -14,7 +14,7 @@ const PLATFORMS = [
   {
     name: 'Codeforces',
     icon: <Zap size={20} />,
-    stats: ['1506 Rating', 'Specialist Rank', '100+ Problems'],
+    stats: ['1593 Rating', 'Specialist Rank', '100+ Problems'],
     color: 'from-blue-500/20 to-blue-600/5',
     border: 'hover:border-blue-500/30',
     socialKey: 'zap',
